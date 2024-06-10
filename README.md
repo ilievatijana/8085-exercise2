@@ -7,12 +7,12 @@ as a gated input port, and B as a normal output port.
 The timer counts a train of short pulses with T = 1ms.
 (f=4MHZ).
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca2/blob/main/imade1.png)
+![Screenshot (1)](https://github.com/ilievatijana/8085-exercise2/blob/main/imade1.png)
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
 
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
+[Tijana Ilieva ](https://github.com/ilievatijana)
 
 
 
